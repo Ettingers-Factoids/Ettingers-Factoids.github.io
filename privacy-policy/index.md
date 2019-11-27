@@ -5,6 +5,7 @@ body {
 }
 </style>
 &nbsp;
+# Ettinger's Factoids - Privacy Policy
 Ettinger’s Factoids and we (Stephen Ettinger, Edward Feldman, and Etienne Côte) take your privacy seriously because we recognize its importance. This Privacy Policy (“Policy”) describes our policies and procedures on the collection, use and disclosure of your personally identifiable information (“Personal Information”) when you use Ettinger’s Factoids and any linked pages, features, content, and any other services we may offer from time to time in connection with any of the above (collectively, the “Service”). The Ettinger’s Factoids Terms of Use, including their paragraphs limiting damages and providing for individual arbitration of disputes, apply to and are incorporated by reference into this Policy. This Policy does not apply to information we collect by other means (including offline) or from other sources.
 
 The informational content within Ettinger’s Factoids is copyright Elsevier, Inc. (2017) and the Privacy Policies of Elsevier, Inc. and its subsidiaries and relevant third parties apply to the informational content (factual information regarding veterinary internal medicine) in Ettinger’s Factoids. Distribution of Ettinger’s Factoids occurs through digital distribution services such as the Apple iTunes App Store and Google Play, and use of Ettinger’s Factoids exists under the privacy policy of the associated digital distribution service from which it was obtained.

@@ -4,6 +4,7 @@ body {
   color: #||TEXT_COLOR||;
 }
 </style>
+# Ettinger's Factoids - Terms of Use
 &nbsp;
 Use of Ettinger’s Factoids (as defined below) requires your agreement with, and is subject to, the following Terms of Use, which may be updated or otherwise changed at any time without notice to you, along with any additional terms or conditions that are referenced herein or that otherwise may apply to specific portions of Ettinger’s Factoids or Ettinger’s Factoids more generally. Your use of Ettinger’s Factoids after the Terms of Use have been updated shall be deemed to constitute acceptance by you of any and all modifications, additions or deletions to the Terms of Use caused by such update. You must ensure that anyone accessing Ettinger’s Factoids via your account complies with the Terms of Use. You will always be able to view the most current version of these Terms of Use at https://ettingers-factoids.github.io/terms-of-use. By accessing and/or using Ettinger’s Factoids, you agree to these Terms of Use. If you do not agree to all of these Terms of Use, do not use Ettinger’s Factoids.
 
