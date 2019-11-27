@@ -3,6 +3,9 @@ body {
   background-color: #||BACKGROUND_COLOR||;
   color: #||TEXT_COLOR||;
 }
+div.markdown-body h1:first-of-type {
+  display: none;
+}
 </style>
 &nbsp;
 # Ettinger's Factoids - Privacy Policy
