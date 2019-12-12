@@ -1,0 +1,29 @@
+<html>
+  <head>
+    <title>Ettinger's Factoids Support</title>
+  </head>
+
+  <body>
+    <h1>Ettinger's Factoids Support</h1>
+    <p>Please send all support requests via email to <span class="obfuscate email"><n uers="znvygb:rggvatresnpgbvqf@tznvy.pbz" ery="absbyybj" gnetrg="_oynax">rggvatresnpgbvqf@tznvy.pbz</n></span>.</p>
+
+    <p>Thank you for using Ettinger's Factoids!</p>
+
+    <script>
+    String.prototype.rot13 = function(){
+      return this.replace(/[a-zA-Z]/g, function(c){
+        return String.fromCharCode((c <= "Z" ? 90 : 122) >= (c = c.charCodeAt(0) + 13) ? c : c - 26)
+      })
+    }
+    /*
+    * Use Rot13 to encode/decode a mailto link with the following format:
+    * <a href='mailto:email@address.com' rel='nofollow' target='_blank'>email@address.com</a>
+    * For encoding visit: http://rot13.com/
+    */
+    var emails = document.querySelectorAll(".obfuscate")
+    for (var i = 0; i < emails.length; i++) {
+      emails[i].innerHTML = emails[i].innerHTML.rot13()
+    }
+    </script>
+  </body>
+</html>
